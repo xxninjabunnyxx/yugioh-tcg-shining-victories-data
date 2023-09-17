@@ -1,0 +1,30 @@
+---
+id: 73860462
+name: Wonder Xyz
+type: Trap Card
+frameType: trap
+desc: Immediately after this effect resolves, Xyz Summon 1 Xyz Monster using monsters
+  you control as Materials.
+race: Normal
+card_sets:
+- set_name: 2017 Mega-Tin Mega Pack
+  set_code: MP17-EN042
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.19'
+- set_name: Shining Victories
+  set_code: SHVI-EN076
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.16'
+card_images:
+- id: 73860462
+  image_url: https://images.ygoprodeck.com/images/cards/73860462.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/73860462.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/73860462.jpg
+card_prices:
+- cardmarket_price: '0.03'
+  tcgplayer_price: '0.19'
+  ebay_price: '1.95'
+  amazon_price: '1.04'
+  coolstuffinc_price: '0.25'
